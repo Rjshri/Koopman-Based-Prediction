@@ -37,3 +37,10 @@ Install dependencies using:
 
 ```bash
 pip install tensorflow jupyter
+
+## Acknowledgements
+
+We would like to sincerely thank **Dr. Debashisha Jena sir**, our professor, for his continuous support, insightful feedback, and guidance throughout the course of this project. His expertise and encouragement were instrumental in shaping our understanding and approach.
+
+We are also grateful to our mentor **Saravanan sir** for his valuable inputs, patient mentoring, and practical advice, which helped us navigate challenges during development and experimentation.
+
